@@ -1,0 +1,64 @@
+body
+{
+  background-image: url('background1.jpg');
+}
+img {
+border: 5px solid #000000;
+border-radius: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 510px;
+  height: 200px
+}
+h2{
+background-color: black;
+ box-sizing: border-box;
+ font-family: Times-new-roman; 
+ font-size: 24px;     
+ font-style: normal; 
+ font-weight: bold; 
+ color: white;
+ text-align: center; 
+ text-decoration: none;
+}
+
+h4{
+background-color: white;
+ font-family: Times-new-roman; 
+ font-size: 24px;     
+ font-style: normal; 
+ font-weight: bold; 
+ color: black;
+ text-align: center; 
+ text-decoration: none
+}
+table{
+ font-family: sans-serif; 
+ color: lightgoldenrodyellow; 
+ font-size: 1px; 
+ font-style: normal;
+ font-weight: bold;
+ background: darkorchid;  
+ border-collapse: collapse; 
+ border: 4px solid #000000;
+ border-style: solid;
+  
+}
+
+input[type=text], input[type=email], input[type=number], input[type=password]{
+ width: 50%;
+ padding: 6px 12px;
+ margin: 5px 0;
+ box-sizing: border-box;
+ border-radius: 8px;
+ 
+}
+input[type=button], input[type=reset]{
+ width: 15%;
+ padding: 8px 12px;
+ margin: 5px 0;
+ box-sizing: border-box;
+ border-radius: 8px;
+ 
+}
